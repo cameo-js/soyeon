@@ -1,49 +1,49 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://soyeon.lamplit.co',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Website by Soyeon',
+  subtitle: '🏫',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-159363017-2',
   useKatex: false,
   menu: [
     {
       label: 'Articles',
-      path: '/'
+      path: '/',
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about',
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      path: '/pages/contacts',
+    },
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Soyeon Kim',
+    photo: '/photo.png',
+    bio: '🏫',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'slmlsy2552@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-    }
-  }
+    },
+  },
 };
