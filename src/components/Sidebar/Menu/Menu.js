@@ -25,7 +25,7 @@ const Menu = ({ menu }: Props) => (
       </li>
       <li className={styles['menu__list-item']}>
         <a
-          href="/Soyeon_Kim_Curriculum_Vitae.pdf"
+          href="https://d3cfowj8kzjokb.cloudfront.net/soyeon/Soyeon_Kim_Curriculum_Vitae.pdf"
           target="_blank"
           className={styles['menu__list-item-link']}
           activeClassName={styles['menu__list-item-link--active']}
@@ -35,7 +35,7 @@ const Menu = ({ menu }: Props) => (
       </li>
       <li className={styles['menu__list-item']}>
         <a
-          href="/Soyeon_Kim_Writing_Sample_Masters_thesis.pdf"
+          href="https://d3cfowj8kzjokb.cloudfront.net/soyeon/Soyeon_Kim_Writing_Sample_Masters_thesis.pdf"
           target="_blank"
           className={styles['menu__list-item-link']}
           activeClassName={styles['menu__list-item-link--active']}

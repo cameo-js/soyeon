@@ -1,11 +1,11 @@
 ---
 title: "Introduction"
 template: "page"
-socialImage: "/media/about.png"
+socialImage: "https://d3cfowj8kzjokb.cloudfront.net/soyeon/about.png"
 ---
 
 <figure class="float-right" style="width: 240px">
-	<img src="/media/introduction.png" alt="introduction">
+	<img src="https://d3cfowj8kzjokb.cloudfront.net/soyeon/introduction.png" alt="introduction">
 	<!-- <figcaption>introduction</figcaption> -->
 </figure>
 
