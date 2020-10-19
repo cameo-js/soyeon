@@ -4,30 +4,25 @@ module.exports = {
   url: 'https://soyeon.lamplit.co',
   pathPrefix: '/',
   title: 'Website by Soyeon',
-  subtitle: '🏫',
+  subtitle:
+    'Research interests: Vocational psychology, Mental illness, Career development, Quantitative analysis, Marginalization',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-159363017-2',
   useKatex: false,
   menu: [
-    {
-      label: 'Articles',
-      path: '/',
-    },
+    // check Menu component
     {
       label: 'About me',
-      path: '/pages/about',
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts',
+      path: '/',
     },
   ],
   author: {
     name: 'Soyeon Kim',
     photo: '/photo.png',
-    bio: '🏫',
+    bio:
+      'Research interests: Vocational psychology, Mental illness, Career development, Quantitative analysis, Marginalization',
     contacts: {
       email: 'slmlsy2552@gmail.com',
       facebook: '',
